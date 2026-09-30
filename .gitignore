@@ -1,0 +1,15 @@
+# data & outputs (organizer-owned / too large for GitHub)
+data/
+dataset/
+output/
+cache/
+*.tsv
+*.parquet
+!results/sample_output.tsv
+*.zip
+# python / OS
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+.env
